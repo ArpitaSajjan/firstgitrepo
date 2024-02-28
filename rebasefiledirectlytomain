@@ -1,0 +1,6 @@
+working on rebase git command
+	consider, somebody merged the new content and you dont that merged content so you need to pull it to your branch..
+
+Example: in Main branch - lets create a file called 'rebasefiledirectlytomain'.
+          then pull file to your branch by giving 'git rebase source destination' - git rebase main 22Febnewbranch
+  									     									
